@@ -1,0 +1,5 @@
+name = "SaltStack YAML"
+grammar = "yaml"
+path_suffixes = []
+tab_size = 2
+hard_tabs = false

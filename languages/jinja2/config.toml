@@ -1,0 +1,6 @@
+name = "SaltStack Jinja"
+grammar = "jinja2"
+path_suffixes = ["sls", "jinja", "jinja2", "j2"]
+line_comments = ["{# ", "# "]
+tab_size = 2
+hard_tabs = false
